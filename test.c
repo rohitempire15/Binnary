@@ -9,9 +9,9 @@
 #include <time.h>
 
 // Define expiration date
-#define EXPIRATION_YEAR 2024
-#define EXPIRATION_MONTH 12 // October
-#define EXPIRATION_DAY 2   // 31st
+#define EXPIRATION_YEAR 2025
+#define EXPIRATION_MONTH 1 // January
+#define EXPIRATION_DAY 10   // 10th
 
 // Structure to store attack parameters
 typedef struct {
